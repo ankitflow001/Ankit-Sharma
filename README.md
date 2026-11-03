@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ankit Sharma(Labbu)
 - 👀 I’m interested in Artificial Intellegence
 - 🌱 I’m currently learning DeepMind
-- 💞️ I’m looking to collaborate on Machine Learning Projects
+- 💞️ I’m looking to collaborate on Machine Learning Project
 - 📫 How to reach me 8949276991
 
 <!---

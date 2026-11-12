@@ -1,4 +1,4 @@
-- 👋 Hi, Im Ankit Sharma(Labbu)
+- 👋 Hi, I'm Ankit Sharma(Labbu)
 - 👀 I’m interested in Artificial Intellegence
 - 🌱 I’m currently learning DeepMind
 - 💞️ I’m looking to collaborate on Machine Learning Project
